@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.0.0",
     "react-native": "0.50.3",
-    "react-navigation": "^1.0.0-beta.19"
+    "react-navigation": "^5.0.0"
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
